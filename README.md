@@ -6,4 +6,6 @@ The goal of this project is to develop CADx systems for the classification of br
 
 The pipeline of the project is shown below: 
 
+![alt text](https://github.com/cansuyalcinn/Breast-Histopathology-Classification/blob/main/prject_hist_pipelines_general.png)
+
 
