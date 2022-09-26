@@ -4,7 +4,7 @@ Breast histopathology diagnosis is the current gold standard for breast cancer d
 Applications of image analysis and artificial intelligence can be highly beneficial for reducing the workload of the classification process.
 The goal of this project is to develop CADx systems for the classification of breast histopathological images intro binary clinical endpoints.
 
-We have followed both traditional machine learning and transfer learning pipelines. The ML pipeline includes pre-processing, feature extractions (LBP, GLCM, Gabor Filters) followed by Machine learning classifier. The DL pipeline includes ensemble of Transfer learning (Resnet, VGG16, and DenseNet) using majority voting where the patient wise recognition rate scores used as weights for each model. 
+In this project both traditional machine learning and deep learning pipelines were followed. The ML pipeline includes pre-processing, feature extractions (LBP, GLCM, Gabor Filters) followed by Machine learning classifier. The DL pipeline includes ensemble of Transfer learning (Resnet, VGG16, and DenseNet) using majority voting where the patient wise recognition rate scores used as weights for each model. 
 
 ![alt text](https://github.com/cansuyalcinn/Breast-Histopathology-Classification/blob/main/prject_hist_pipelines_general.png)
 
